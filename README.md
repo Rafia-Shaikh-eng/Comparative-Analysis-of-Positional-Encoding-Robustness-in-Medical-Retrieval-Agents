@@ -13,7 +13,7 @@ Our experiments reveal a critical safety vulnerability in standard Rotary Embedd
 - **Llama-3 (RoPE):** Exhibits "Lost-in-the-Middle" failure, dropping to **0% accuracy** at 3000 tokens despite theoretically supporting the context length.
 - **BLOOM (ALiBi):** Maintains **100% retrieval accuracy**, demonstrating superior length extrapolation for clinical tasks.
 
-![Results Graph](./results/accuracy_graph.png)
+![Results Graph](results/results_graph.png)
 
 ## 🛠️ Installation
 
