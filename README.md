@@ -6,6 +6,7 @@
 
 ## 📄 Abstract
 This repository contains the experimental code and reproducibility scripts for the research paper *"Comparative Analysis of Positional Encoding Robustness in Medical Retrieval Agents"*. The study evaluates how different Positional Encoding (PE) schemes—**Absolute (BioGPT)**, **RoPE (Llama-3)**, and **ALiBi (BLOOM)**—affect the safety and reliability of autonomous medical agents processing longitudinal patient records.
+![Retrieval Agent Pipeline ](results/Retrieval Agent Pipeline (1).png)
 
 ## 🧪 Key Findings
 Our experiments reveal a critical safety vulnerability in standard Rotary Embedding (RoPE) models:
